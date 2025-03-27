@@ -42,12 +42,12 @@ Follow these instructions to fork, build, and submit your app:
 
 ### 1. Fork the Repository
 - Click the **Fork** button at the top-right of this GitHub page. This creates a copy of this repo under your GitHub account.  
-- You’ll work in your forked repo: `https://github.com/your-username/android-intern-project`.
+- You’ll work in your forked repo: `https://github.com/your-username/buildYourOwnApp`.
 
 ### 2. Set Up Your Project
 - **Clone the repo:** On your computer, run:  
   ```
-  git clone https://github.com/your-username/android-intern-project.git
+  git clone https://github.com/your-username/buildYourOwnApp.git
   ```
 - Open Android Studio:  
   - Create a new Android project inside the cloned folder (File > New > New Project).  
@@ -75,7 +75,7 @@ Follow these instructions to fork, build, and submit your app:
   ```
 
 ### 5. Submit Your Project
-- Send us the link to your forked repo (e.g., `https://github.com/your-username/android-intern-project`) via email to hr@rapido.bike.  
+- Send us the link to your forked repo (e.g., `https://github.com/your-username/buildYourOwnApp`) via email to hr@rapido.bike.  
 - Ensure your repo is public or grant access to [insert your GitHub username] so we can review it.
 
 ## Tips for Success
