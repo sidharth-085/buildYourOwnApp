@@ -76,7 +76,7 @@ Follow these instructions to fork, build, and submit your app:
 
 ### 5. Submit Your Project
 - Send us the link to your forked repo (e.g., `https://github.com/your-username/buildYourOwnApp`) via email to hr@rapido.bike.  
-- Ensure your repo is public or grant access to [insert your GitHub username] so we can review it.
+- Ensure your repo is public so we can review it.
 
 ## Tips for Success
 - Start simple—focus on a working app, then add extras if time allows.  
