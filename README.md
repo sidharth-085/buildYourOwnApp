@@ -10,6 +10,19 @@ TicTacToe is a classic game built with Kotlin and Jetpack Compose for Android. T
 - **Clean and minimal UI** built using Jetpack Compose
 - **Smooth navigation** with Compose Navigation
 
+## Pro Mode
+In **Pro Mode**, the classic gameplay takes a strategic twist. Once both players (or player and AI) have made **6 moves each**, the game begins removing the oldest moves in the order they were played.  
+
+For example, if a player's moves were:
+- [1,3], [3,1], [2,3]
+
+Then, after the 6th move, the game will start clearing them in the same order:
+1. First removes [1,3]  
+2. Then [3,1]  
+3. Then [2,3]  
+
+This mechanic introduces a dynamic challenge where players must not only focus on winning, but also think ahead about losing their earlier moves. It keeps the board evolving and adds a whole new level of strategy.
+
 ## Tech Stack
 - **Kotlin** - Modern programming language for Android development
 - **Jetpack Compose** - Declarative UI framework for building native Android apps
